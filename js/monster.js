@@ -1,5 +1,5 @@
-class Monster {
-  /* Write your Monster code here! */
-}
+/* Write your Monster class here! */
+
+///////////////////////////////////////
 
 /* Write your Monster subclasses here! */
